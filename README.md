@@ -1,6 +1,7 @@
 # elementary alpha
 ### **Theme for elementaryOS Juno**
 ![](img/elementary_logo.png)
+
 ![](img/screenshot1.png)
 ![](img/screenshot2.png)
 
