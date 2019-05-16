@@ -1,13 +1,13 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=elementary alpha
-Comment=desktop theme alpha graphics
+Name=elementary-alpha
+Comment=elementary desktop theme alpha graphics
 Encoding=UTF-8
 
-Name[en_US]=elementary alpha
+Name[en_US]=elementary-alpha
 
 [X-GNOME-Metatheme]
-GtkTheme=elementary
+GtkTheme=elementary-alpha
 IconTheme=elementary
 CursorTheme=DMZ-Black
 ButtonLayout=close:maximize

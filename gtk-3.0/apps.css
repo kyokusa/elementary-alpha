@@ -270,6 +270,7 @@ paned statusbar frame {
     background-color: #000;
 }
 
+/*
 .panel.translucent {
     background-color: alpha(#000, 0.5);
     box-shadow:
@@ -286,6 +287,7 @@ paned statusbar frame {
         0 1px 1px alpha(#000, 0.12);
     margin-bottom: 4px;
 }
+*/
 
 menubar.panel,
 .panel menubar {
